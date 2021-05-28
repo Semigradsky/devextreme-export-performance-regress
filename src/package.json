@@ -1,0 +1,29 @@
+{
+  "name": "Overview - DevExtreme Data Grid",
+  "description": "To enable export in the DataGrid, reference or import the ExcelJS and FileSaver libraries. Set export.enabled to true.\nOnce the conditions above are met, use the exportDataGrid(options) method to export the DataGrid to an Excel workbook.\nReview the onExporting handler to see the data export code. DataGrid is exported as is to a single worksheet. You can also set allowExportSelectedData to true to export only selected rows.\n",
+  "dependencies": {
+    "rrule": "2.6.6",
+    "react-dom": "17.0.2",
+    "react": "17.0.2",
+    "prop-types": "15.7.2",
+    "luxon": "1.27.0",
+    "jszip": "3.6.0",
+    "inferno-hydrate": "7.4.8",
+    "inferno-extras": "7.4.8",
+    "inferno-dom": "1.0.7",
+    "inferno-create-element": "7.4.8",
+    "inferno-create-class": "7.4.8",
+    "inferno-compat": "7.4.8",
+    "inferno-clone-vnode": "7.4.8",
+    "inferno": "7.4.8",
+    "file-saver": "1.3.8",
+    "exceljs": "1.7.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-react": "21.1.3",
+    "devextreme-quill": "1.0.0",
+    "devextreme": "21.1.3",
+    "devexpress-gantt": "2.1.31",
+    "devexpress-diagram": "2.1.15",
+    "@devextreme/vdom": "1.2.1"
+  }
+}
